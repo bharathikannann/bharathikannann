@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Student, Programmer, Blogger and Software Developer.
+
+![](https://hit.yhype.me/github/profile?user_id=59825547)
+
 <!--
 **bharathikannann/bharathikannann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
