@@ -2,8 +2,8 @@
 
 I am a Student, Programmer, Blogger and Software Developer.
 
-![](https://komarev.com/ghpvc/?username=bharathikannann)
-
+<!-- ![](https://komarev.com/ghpvc/?username=bharathikannann)
+ -->
 ![](https://hit.yhype.me/github/profile?user_id=59825547)
 
 <!--
