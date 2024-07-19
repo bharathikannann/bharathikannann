@@ -1,7 +1,7 @@
 ### Hi there 👋, About Me
 ------
 
-Aspiring Machine Learning Engineer | Master's in Computer Science from University of Siegen
+Aspiring Machine Learning Engineer | Master's in Computer Science at University of Siegen
 
 My repositories:
 -----
