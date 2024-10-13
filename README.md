@@ -1,14 +1,14 @@
-### Hi there 👋, About Me
+### Hi there 👋, Welcome to my Github Page
 ------
 
-Aspiring Machine Learning Engineer | Master's in Computer Science at University of Siegen
+<!--Aspiring Machine Learning Engineer | Master's in Computer Science at University of Siegen
 
 My repositories:
 -----
 
 <!-- ![](https://komarev.com/ghpvc/?username=bharathikannann)
  -->
-![](https://hit.yhype.me/github/profile?user_id=59825547)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=59825547)
 
 | Repo | Description | Tech Stack |
 |----------|----------|----------|
@@ -21,4 +21,5 @@ My repositories:
 | [Talks](https://github.com/bharathikannann/talks) | Repository containing resources for my talks and presentations | markdown |
 | [PHP Login Templace](https://github.com/bharathikannann/PHP-Loginonly-Template) | Login template with backend using PHP | PHP, MySQL, HTML, CSS |
 
-- These are my main repositories and my contributions to open source. 
+- These are my main repositories and my contributions to open source. --
+  -->
